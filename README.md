@@ -1,23 +1,52 @@
-﻿# 💫 About Me:
-
-I break my code just to fix it better, and I genuinely enjoy the chaos it brings.
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunkarn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imtkarn)
-
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=tarun-karn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tarun-karn&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-karn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">Hi, I'm Tarun Karn</h1>
+<h3 align="center">Developer | Open Source Enthusiast | Problem Solver</h3>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=tarun-karn&icon=0&color=0)](https://visitcount.itsvg.in)
+## About Me
+I enjoy breaking code just to rebuild it better.  
+Currently exploring **WebAssembly, Open Source & Systems Programming**  
+Learning **Rust, WASM, and Advanced Backend Concepts**  
+Interested in **Hackathons, Open Source, and Building Real-World Projects**  
+Fun fact: I genuinely enjoy debugging chaos  
 
+---
 
+## Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/tarunkarn" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tarun-karn&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-karn&theme=radical" height="165"/>
+</p>
+
+## Goals for 2026
+✔ Contribute to major open-source projects  
+✔ Become strong in Systems + WebAssembly  
+✔ Build impactful developer tools  
+
+---
+
+From [Tarun Karn](https://github.com/tarun-karn)
