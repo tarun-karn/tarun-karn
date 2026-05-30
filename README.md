@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=tarun-karn&color=5A3F97&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
   </a>
 </p>
----
+
 
 ## 💫 About Me
 
