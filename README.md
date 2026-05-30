@@ -3,7 +3,7 @@
 <!-- Dynamic Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I%27m+Tarun+%F0%9F%8C%8F;Java%2C+C%2B%2B+%26+JavaScript+Programmer+%F0%9F%92%BB;Next.js+%26+Full-Stack+Developer+%F0%9F%9A%80;Currently+learning+Rust+%F0%9F%A6%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I%27m+Tarun+%F0%9F%8C%8F; Java%2C+C%2B%2B+%26+JavaScript+Programmer+%F0%9F%92%BB;Next.js+%26+Full-Stack+Developer+%F0%9F%9A%80;Currently+learning+Rust+%F0%9F%A6%80" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
