@@ -1,4 +1,4 @@
-# <p align="center">💫 Tarun Karn</p>
+# <p align="center"> Tarun Karn</p>
 <p align="center">
 </p>
 
