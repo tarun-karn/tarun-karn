@@ -1,6 +1,13 @@
 # <p align="center">Tarun Karn</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A3F97,100:00D2FF&height=220&section=header&text=Tarun%20Karn&fontSize=60&fontColor=ffffff&fontAlignY=35" alt="Tarun's Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A3F97,100:00D2FF&height=220&section=header&text=Tarun%20Karn&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=twinkling" alt="Tarun's Header Banner" />
+</p>
+
+<!-- Dynamic Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3000&pause=1000&color=00D2FF&background=5A3F9700&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Tarun+🌏;Java%2C+C%2B%2B+%26+JavaScript+Programmer+💻;Next.js+%26+Full-Stack+Developer+🚀;Currently+learning+Rust+🦀" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -47,6 +54,14 @@ Hello! I am **Tarun Karn**, an enthusiastic software developer and dedicated pro
 ### 🗄️ Database
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tarun-karn/tarun-karn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
 </p>
 
 ---
