@@ -50,37 +50,26 @@ Hello! I am **Tarun Karn**, an enthusiastic software developer and dedicated pro
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
-
 ---
-
 ## 🐍 GitHub Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/tarun-karn/tarun-karn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
 </p>
-
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=tarun-karn&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun-karn&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=tarun-karn&theme=radical&hide_border=true" height="195" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tarun-karn&theme=radical&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-karn&theme=radical&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages" />
 </p>
-
 ---
-
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
-
 <br />
-
 <p align="center">
   Made with 💖 by <a href="https://github.com/tarun-karn">Tarun Karn</a>
 </p>
