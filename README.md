@@ -65,19 +65,6 @@ Hello! I am **Tarun Karn**, an enthusiastic software developer and dedicated pro
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=tarun-karn&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=tarun-karn&theme=radical&hide_border=true" height="195" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tarun-karn&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
