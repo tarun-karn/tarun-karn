@@ -26,7 +26,6 @@
 Hello! I am **Tarun Karn**, an enthusiastic software developer and dedicated programmer based on Earth 🌏. My GitHub journey is driven by commitment, continuous exploration, and a deep love for building robust systems.
 
 - 💻 **Languages I Love:** Crafting efficient and robust solutions in **Java**, **C++**, and modern **JavaScript**.
-- 🦀 **Exploring Frontiers:** Currently diving into **Rust** to build high-performance and reliable systems.
 - 🛠️ **Full Stack Enthusiast:** Creating seamless web experiences using **Next.js**, **Node.js**, **TailwindCSS**, and **MongoDB**.
 - 🚀 **Goals:** Continuously solving challenging engineering problems and contributing to meaningful open-source projects.
 
@@ -39,7 +38,6 @@ Hello! I am **Tarun Karn**, an enthusiastic software developer and dedicated pro
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />&nbsp;
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
